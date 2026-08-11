@@ -1,0 +1,89 @@
+‎B. Major Transactions (System)
+‎No.
+‎Major Transaction
+‎Description
+‎1
+‎Dashboard Viewing
+‎View dashboard summary and announcements.
+‎2
+‎Student Profile Management
+‎Create, view, and update student profile information.
+‎3
+‎Counselor Availability Management
+‎Set and manage counselor schedules.
+‎4
+‎View Counselor Schedule
+‎Students view available counseling schedules.
+‎5
+‎Appointment Request
+‎Submit a counseling appointment request.
+‎6
+‎Schedule Validation
+‎System checks for schedule conflicts.
+‎7
+‎Appointment Approval
+‎Counselor approves appointment requests.
+‎8
+‎Appointment Rejection
+‎Counselor rejects appointment requests.
+‎9
+‎Appointment Rescheduling
+‎Change appointment schedule.
+‎10
+‎Appointment Cancellation
+‎Cancel scheduled appointments.
+‎11
+‎Appointment Status Viewing
+‎Students monitor appointment status.
+‎12
+‎Notification Management
+‎Notify students of appointment updates.
+‎13
+‎Counseling Session Recording
+‎Record counseling session details.
+‎14
+‎Student Counseling Record Management
+‎Maintain and update counseling records.
+‎15
+‎Counseling History Viewing
+‎View previous counseling sessions.
+‎16
+‎Follow-up Session Scheduling
+‎Schedule additional counseling sessions.
+‎17
+‎Follow-up Monitoring
+‎Monitor pending follow-up sessions.
+‎18
+‎Report Generation
+‎Generate counseling and appointment reports.
+‎19
+‎Report Export
+‎Export reports for printing or documentation.
+‎20
+‎Archive Counseling Records
+‎Archive completed counseling records.
+‎21
+‎Record Search
+‎Search student and counseling records.
+‎22
+‎Dashboard Statistics
+‎Display appointment and counseling statistics.
+‎23
+‎Audit Trail Viewing
+‎View activity logs for accountability.
+‎
+‎
+‎Guidance Counselling Management System – Process Flow
+‎1. Student Profile Management
+‎2. View Counselor Availability
+‎3. Appointment Scheduling
+‎4. Appointment Approval / Rejection
+‎5. Appointment Notification
+‎6. Conduct Counseling Session
+‎7. Record Counseling Session
+‎8. Update Student Counseling Record
+‎9. Schedule Follow-up Session (if needed)
+‎10. Manage Counseling Records
+‎11. Generate Reports
+‎12. Archive Completed Records
+13. ‎Done with remarks or additional session/s
